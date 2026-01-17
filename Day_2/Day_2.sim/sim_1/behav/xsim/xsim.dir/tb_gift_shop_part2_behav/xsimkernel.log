@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_gift_shop_part2_behav/xsimk -simmode gui -wdb tb_gift_shop_part2_behav.wdb -simrunnum 0 -socket 47541
+Design successfully loaded
+Design Loading Memory Usage: 29120 KB (Peak: 29652 KB)
+Design Loading CPU Usage: 50 ms
+Simulation completed
+Simulation Memory Usage: 111116 KB (Peak: 168388 KB)
+Simulation CPU Usage: 8180 ms

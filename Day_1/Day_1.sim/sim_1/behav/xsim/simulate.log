@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+--- Starting Part 2 Simulation ---
+----------------------------------------
+PART 2 PASSWORD: 5933
+----------------------------------------
+$finish called at time : 5375 ns : File "/home/rishi/jane_street_challenge/Day_1/Day_1.srcs/sim_1/new/tb_safe_cracker_part2.sv" Line 106

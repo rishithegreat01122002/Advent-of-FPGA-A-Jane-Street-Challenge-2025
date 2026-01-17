@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/rishi/jane_street_challenge/Day_2/Day_2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/tb_gift_shop.sv,1768462973,systemVerilog,,,,tb_gift_shop,,uvm,,,,,,
+/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/tb_gift_shop_part2.sv,1768464486,systemVerilog,,,,tb_gift_shop_part2,,uvm,,,,,,
+/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sources_1/new/gift_shop_solver.sv,1768462932,systemVerilog,,/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/tb_gift_shop.sv,,gift_shop_solver,,uvm,,,,,,
+/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sources_1/new/gift_shop_solver_part2.sv,1768464463,systemVerilog,,/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/tb_gift_shop_part2.sv,,gift_shop_solver_part2,,uvm,,,,,,

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rishi/jane_street_challenge/Day_3/Day_3.srcs/sources_1/new/battery_joltage_part2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module battery_joltage_part2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rishi/jane_street_challenge/Day_3/Day_3.srcs/sim_1/new/tb_battery_part2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_battery_part2

@@ -1,0 +1,16 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /media/rishi/HDD/Vivado/2022.2/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_cafeteria_part2_behav xil_defaultlib.tb_cafeteria_part2 xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.CafeteriaTypes_Part2
+Compiling module xil_defaultlib.cafeteria_engine_part2
+Compiling module xil_defaultlib.tb_cafeteria_part2
+WARNING: [XSIM 43-3373] "/home/rishi/jane_street_challenge/Day_5/Day_5.srcs/sim_1/new/tb_cafeteria_part2.sv" Line 51. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_cafeteria_part2_behav

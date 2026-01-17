@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Starting Part 2 Simulation...
+Reading from: /home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/input.txt
+Stream finished. Waiting for calculation...
+--------------------------------------------------
+ FINAL RESULT (Part 2) 
+--------------------------------------------------
+Total Sum of Invalid IDs: 43287141963
+--------------------------------------------------
+$finish called at time : 20450195 ns : File "/home/rishi/jane_street_challenge/Day_2/Day_2.srcs/sim_1/new/tb_gift_shop_part2.sv" Line 151

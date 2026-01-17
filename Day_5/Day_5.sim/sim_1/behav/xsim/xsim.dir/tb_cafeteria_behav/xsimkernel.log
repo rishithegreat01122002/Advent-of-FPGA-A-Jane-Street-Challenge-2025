@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_cafeteria_behav/xsimk -simmode gui -wdb tb_cafeteria_behav.wdb -simrunnum 0 -socket 51135
+Design successfully loaded
+Design Loading Memory Usage: 29164 KB (Peak: 29688 KB)
+Design Loading CPU Usage: 60 ms
+Simulation completed
+Simulation Memory Usage: 119872 KB (Peak: 168432 KB)
+Simulation CPU Usage: 130 ms

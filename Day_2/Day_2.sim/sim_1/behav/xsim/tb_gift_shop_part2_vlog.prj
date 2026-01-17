@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Day_2.srcs/sources_1/new/gift_shop_solver_part2.sv" \
+"../../../../Day_2.srcs/sim_1/new/tb_gift_shop_part2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

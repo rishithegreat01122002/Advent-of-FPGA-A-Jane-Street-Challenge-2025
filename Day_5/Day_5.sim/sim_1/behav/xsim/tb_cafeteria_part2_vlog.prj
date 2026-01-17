@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Day_5.srcs/sources_1/new/cafeteria_engine_part2.sv" \
+"../../../../Day_5.srcs/sim_1/new/tb_cafeteria_part2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

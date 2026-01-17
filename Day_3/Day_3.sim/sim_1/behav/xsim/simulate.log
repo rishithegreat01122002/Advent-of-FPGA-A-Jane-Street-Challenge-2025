@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Starting Part 2 Processing...
+-------------------------------------------
+FINAL TOTAL JOLTAGE (Part 2):      172601598658203
+-------------------------------------------
+$stop called at time : 600065 ns : File "/home/rishi/jane_street_challenge/Day_3/Day_3.srcs/sim_1/new/tb_battery_part2.v" Line 116

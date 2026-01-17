@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Day_1.srcs/sources_1/new/safe_cracker.sv" \
+"../../../../Day_1.srcs/sources_1/new/safe_cracker_part2.sv" \
+"../../../../Day_1.srcs/sim_1/new/tb_safe_cracker_part2.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
